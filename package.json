@@ -1,0 +1,27 @@
+{
+  "name": "liri_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRG3/LIRI_Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LRG3/LIRI_Bot/issues"
+  },
+  "homepage": "https://github.com/LRG3/LIRI_Bot#readme",
+  "dependencies": {
+    "all": "0.0.0",
+    "bandsintown": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
+}
